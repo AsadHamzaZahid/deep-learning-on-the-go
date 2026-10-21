@@ -138,7 +138,7 @@ The first build can take several minutes because TensorFlow is large, and the fi
 
 ## Live demo
 
-🔗 **Deployed app:** _add your link here_
+🔗 **Deployed app:** https://dsub3pchi7ioj5jbdtc9z9.streamlit.app/
 
 ---
 
