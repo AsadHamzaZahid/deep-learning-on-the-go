@@ -5,6 +5,11 @@ A kid-friendly emotion detector. You type a sentence, a deep learning model figu
 Built with TensorFlow/Keras (Bidirectional GRU) and Streamlit.
 
 ---
+## Live demo
+
+🔗 **Deployed app:** https://dsub3pchi7ioj5jbdtc9z9.streamlit.app/
+
+---
 
 ## What it does
 
@@ -134,11 +139,6 @@ Tested with Python 3.12, `streamlit==1.66.1`, `tensorflow-cpu==2.21.0`, `keras==
 
 The first build can take several minutes because TensorFlow is large, and the first prediction after the app wakes up is a little slow.
 
----
-
-## Live demo
-
-🔗 **Deployed app:** https://dsub3pchi7ioj5jbdtc9z9.streamlit.app/
 
 ---
 
